@@ -36,6 +36,6 @@ mongoose.connect(
   }
 );
 
-mongoose.connect(url, () => {
-  console.log("Database connected");
-});
+// mongoose.connect(url, () => {
+//   console.log("Database connected");
+// });
